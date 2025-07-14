@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a886dd7-7bea-4351-bc9c-48f9eb3d0e4d" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/brackets.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/brackets.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/debounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/debounce.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/factorial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/fibonacci.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/removeCharDuplicate.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/removeCharDuplicate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/reverseString.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/reverseString.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/shuffle.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/shuffle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/throttle.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/throttle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/live-coding-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/live-coding-example.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0a886dd7-7bea-4351-bc9c-48f9eb3d0e4d" name="변경" comment="라이브 코딩 대비 문제 풀이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,11 +99,32 @@
       <updated>1752407491678</updated>
       <workItem from="1752407493222" duration="88000" />
       <workItem from="1752407682033" duration="170000" />
-      <workItem from="1752407855094" duration="23499000" />
+      <workItem from="1752407855094" duration="23862000" />
     </task>
+    <task id="LOCAL-00001" summary="라이브 코딩 대비 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1752509252512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752509252512</updated>
+    </task>
+    <task id="LOCAL-00002" summary="라이브 코딩 대비 문제 풀이">
+      <option name="closed" value="true" />
+      <created>1752509389735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752509389735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="라이브 코딩 대비 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="라이브 코딩 대비 문제 풀이" />
   </component>
 </project>
