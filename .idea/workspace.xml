@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a886dd7-7bea-4351-bc9c-48f9eb3d0e4d" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/brackets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/curry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/debounce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/factorial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/fibonacci.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/removeCharDuplicate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/removeNumberDuplicate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/reverseString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/shuffle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/throttle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live-coding-example.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2zopt5hwyZMZ47rUkgdsCB74FZG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.brackets.js.executor": "Run",
+    "Node.js.curry.js.executor": "Run",
+    "Node.js.duplicateRemove.js.executor": "Run",
+    "Node.js.factorial.js.executor": "Run",
+    "Node.js.fibonacci.js.executor": "Run",
+    "Node.js.removeCharDuplicate.js.executor": "Run",
+    "Node.js.reverseString.js.executor": "Run",
+    "Node.js.shuffle.js.executor": "Run",
+    "Node.js.throttle.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/wy.lee/workspace/live-coding-example",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Node.js.factorial.js">
+    <configuration name="brackets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/brackets.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <configuration name="factorial.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/factorial.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonacci.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/fibonacci.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <configuration name="shuffle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/shuffle.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <configuration name="throttle.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/throttle.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.factorial.js" />
+        <item itemvalue="Node.js.shuffle.js" />
+        <item itemvalue="Node.js.fibonacci.js" />
+        <item itemvalue="Node.js.brackets.js" />
+        <item itemvalue="Node.js.throttle.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="0a886dd7-7bea-4351-bc9c-48f9eb3d0e4d" name="변경" comment="" />
+      <created>1752407491678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752407491678</updated>
+      <workItem from="1752407493222" duration="88000" />
+      <workItem from="1752407682033" duration="170000" />
+      <workItem from="1752407855094" duration="23133000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
