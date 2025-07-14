@@ -16,7 +16,6 @@ function brackets(s) {
   return stack.length === 0;
 }
 
-
 console.log(brackets('{[()]}'));   // true
 console.log(brackets('{[(])}'));   // false
 console.log(brackets(''));         // false
