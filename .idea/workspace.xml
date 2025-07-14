@@ -5,19 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a886dd7-7bea-4351-bc9c-48f9eb3d0e4d" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/brackets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/curry.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/debounce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/factorial.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/fibonacci.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/removeCharDuplicate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/removeNumberDuplicate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/reverseString.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/shuffle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/throttle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live-coding-example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/brackets.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/brackets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/debounce.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/debounce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/factorial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/fibonacci.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/removeCharDuplicate.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/removeCharDuplicate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/reverseString.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/reverseString.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/shuffle.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/shuffle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/throttle.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/throttle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live-coding-example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/live-coding-example.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,7 @@
       <updated>1752407491678</updated>
       <workItem from="1752407493222" duration="88000" />
       <workItem from="1752407682033" duration="170000" />
-      <workItem from="1752407855094" duration="23133000" />
+      <workItem from="1752407855094" duration="23499000" />
     </task>
     <servers />
   </component>
